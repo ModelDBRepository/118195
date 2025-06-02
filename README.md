@@ -1,4 +1,4 @@
-### Note from the ModelDB administrator: the below is a copy of the author's web page [http://www.ece.mcmaster.ca/~ibruce/bruce_evalFox/bruce_evalFox.htm](http://www.ece.mcmaster.ca/~ibruce/bruce_evalFox/bruce_evalFox.htm) taken on March 18th, 2009:
+Note from the ModelDB administrator: the below is a copy of the author's web page [http://www.ece.mcmaster.ca/~ibruce/bruce_evalFox/bruce_evalFox.htm](http://www.ece.mcmaster.ca/~ibruce/bruce_evalFox/bruce_evalFox.htm) taken on March 18th, 2009:
 
 # Source code for the Bruce (ABME 2009) Stochastic Hodgkin–Huxley Models
 
@@ -20,9 +20,6 @@ The files in both of these archives are identical. A file readme.txt included in
 
 ---
 
-*Created by Ian Bruce <ibruce@ieee.org> - last modified
-Wednesday, March 18, 2009*
-
----
-
-2025-06-02: Converted README to Markdown.
+*Created by Ian Bruce <ibruce@ieee.org>*
+- *last modified Wednesday, March 18, 2009*
+- *Converted README to Markdown Monday, June 2, 2025*
